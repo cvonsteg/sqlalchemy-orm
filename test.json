@@ -1,0 +1,13 @@
+{"reference": 123456789,
+ "branch": "master",
+  "object": [
+    {"id": 123,
+     "input": "Adamm",
+     "output": "Adam",
+     "date_from": "2018-05-01"},
+    {"rule_id": 456,
+     "input": "Stevie",
+     "output": "Steven",
+     "date_from": "2018-05-01",
+     "date_to": "2018-07-01"}
+  ]}
